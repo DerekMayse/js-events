@@ -1,0 +1,40 @@
+/* .dark-mode{
+    background-color: black;
+    color: blanchedalmond;
+    
+}
+
+form{
+    height: 30vh;
+    padding: 10vh;
+} */
+
+/* .jordan-mode{
+    font-size: 3em;
+} */
+ 
+/* #unique{
+border: 1px solid firebrick;
+width: 50vw;
+}
+
+
+#not-unique{
+border: 1px solid goldenrod;
+width: 50vw;
+
+} 
+
+#flexbox{
+    display: flex;
+} */
+
+
+.disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: fuchsia;
+    color: goldenrod;
+}
